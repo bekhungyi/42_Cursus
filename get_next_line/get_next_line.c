@@ -6,17 +6,11 @@
 /*   By: bhung-yi <bhung-yi@student.42kl.edu.my>    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/03/28 21:01:54 by bhung-yi          #+#    #+#             */
-/*   Updated: 2023/04/06 01:29:37 by bhung-yi         ###   ########.fr       */
+/*   Updated: 2023/05/17 18:36:13 by bhung-yi         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include "get_next_line.h"
-#include <fcntl.h>
-#include <stdio.h>
-#include <stdlib.h>
-#include <sys/stat.h>
-#include <sys/types.h>
-#include <unistd.h>
 
 char	*ft_getline(char *save)
 {

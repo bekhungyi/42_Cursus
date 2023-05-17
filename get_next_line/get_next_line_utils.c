@@ -6,12 +6,11 @@
 /*   By: bhung-yi <bhung-yi@student.42kl.edu.my>    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/04/04 01:47:31 by bhung-yi          #+#    #+#             */
-/*   Updated: 2023/04/06 01:30:19 by bhung-yi         ###   ########.fr       */
+/*   Updated: 2023/05/17 18:36:11 by bhung-yi         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include "get_next_line.h"
-#include <stdlib.h>
 
 int	count_until_n(char *str)
 {
